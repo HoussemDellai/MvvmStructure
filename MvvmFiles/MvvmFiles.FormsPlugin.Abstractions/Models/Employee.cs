@@ -1,4 +1,5 @@
-﻿namespace MvvmFiles.Models
+﻿
+namespace MvvmFiles.Models
 {
     /// <summary>
     /// The Employee model contains information about the Name and the Department.
