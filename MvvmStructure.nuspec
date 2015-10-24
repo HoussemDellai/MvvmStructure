@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata minClientVersion="2.8.1">
     <id>MvvmStructure</id>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <title>MVVM Folders and Files</title>
     <authors>Houssem Dellai</authors>
     <owners>Houssem Dellai</owners>
     <licenseUrl>https://github.com/HoussemDellai/MvvmStructure</licenseUrl>
     <projectUrl>https://github.com/HoussemDellai/MvvmStructure</projectUrl>
     <!--Default Icon, a template can be found:  https://raw.githubusercontent.com/jamesmontemagno/Xamarin-Templates/master/Plugins-Templates/icons/plugin_icon.png-->
-    <iconUrl>https://raw.githubusercontent.com/jamesmontemagno/Xamarin-Templates/master/Plugins-Templates/icons/plugin_icon_nuget.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/HoussemDellai/MvvmStructure/master/items/icon1.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
       Install this plugin to your project to add MVVM required files and folders (Models, Views and ViewModels).
