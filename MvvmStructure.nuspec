@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata minClientVersion="2.8.1">
-    <id>HoussemDellai.FormsPlugin.MvvmStructure</id>
-    <version>1.0.6</version>
-    <title>MVVM Structure Plugin</title>
+    <id>MvvmStructure</id>
+    <version>1.0.7</version>
+    <title>MVVM Folders and Files</title>
     <authors>Houssem Dellai</authors>
     <owners>Houssem Dellai</owners>
     <licenseUrl>https://github.com/HoussemDellai/MvvmStructure</licenseUrl>
